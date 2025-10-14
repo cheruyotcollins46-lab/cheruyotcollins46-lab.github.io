@@ -1,6 +1,6 @@
 ---
 Title: ABOUT
-icon: far-fa user
+icon: fas fa-user
 ---
 # About Me
 
