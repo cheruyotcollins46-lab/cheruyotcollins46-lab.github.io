@@ -6,7 +6,7 @@ icon: far-fa user
 
 ## Hello! I'm Cheruyot Collins 👋
 
-**Data Scientist | Machine Learning Engineer | AI Researcher**
+**Data Scientist | Machine Learning Engineer | Statisticia| AI Researcher**
 
 ---
 
