@@ -6,7 +6,7 @@ icon: fas fa-user
 
 ## Hello! I'm Cheruyot Collins 👋
 
-**Data Scientist | Machine Learning Engineer | Statisticia| AI Researcher**
+**Data Scientist | Machine Learning Engineer | Statistician | AI Researcher**
 
 ---
 
@@ -39,9 +39,9 @@ Since then, I've dedicated myself to mastering the entire data science lifecycle
 ## 🛠️ Technical Proficiency
 
 # My Data Science Toolkit
-Core Languages:    Python · R · SQL 
-Machine Learning:  Scikit-learn · XGBoost 
-Deep Learning:     TensorFlow · PyTorch · Keras · Transformers
-Data Processing:   Pandas · NumPy 
-Visualization:     Matplotlib · Seaborn · Plotly · Tableau. PowerBi
-Databases:         MySQL · PostgreSQL · MongoDB 
+-Core Languages:    Python · R · SQL 
+-Machine Learning:  Scikit-learn · XGBoost 
+-Deep Learning:     TensorFlow · PyTorch · Keras · Transformers
+-Data Processing:   Pandas · NumPy 
+-Visualization:     Matplotlib · Seaborn · Plotly · Tableau. PowerBi
+-Databases:         MySQL · PostgreSQL · MongoDB 
