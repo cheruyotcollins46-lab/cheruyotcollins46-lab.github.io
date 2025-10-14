@@ -2,7 +2,6 @@
 title: "A journey into data ai,deep learing"
 categories:[tech,ai]
 tags:[data science,ai,ml,statistican]
----
 # CHERUYOT COLLINS
 **Data Scientist | Machine Learning Engineer | AI Researcher**
 
