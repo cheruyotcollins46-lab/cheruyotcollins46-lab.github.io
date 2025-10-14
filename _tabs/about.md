@@ -38,12 +38,10 @@ Since then, I've dedicated myself to mastering the entire data science lifecycle
 
 ## 🛠️ Technical Proficiency
 
-```python
 # My Data Science Toolkit
-Core Languages:    Python · R · SQL · JavaScript
-Machine Learning:  Scikit-learn · XGBoost · LightGBM · CatBoost
+Core Languages:    Python · R · SQL 
+Machine Learning:  Scikit-learn · XGBoost 
 Deep Learning:     TensorFlow · PyTorch · Keras · Transformers
-Data Processing:   Pandas · NumPy · Spark · Hadoop
-Visualization:     Matplotlib · Seaborn · Plotly · Tableau
-Cloud & Tools:     AWS · Docker · Git · MLflow · FastAPI
-Databases:         MySQL · PostgreSQL · MongoDB · Redis
+Data Processing:   Pandas · NumPy 
+Visualization:     Matplotlib · Seaborn · Plotly · Tableau. PowerBi
+Databases:         MySQL · PostgreSQL · MongoDB 
