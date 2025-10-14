@@ -1,29 +1,28 @@
-# CHERUYOT COLLINS
-**Data Scientist | Machine Learning Engineer | AI Researcher**
-
----
-
-## 🚀 Transforming Data into Intelligent Solutions
+# Transforming Data into Intelligent Solutions
 
 I bridge the gap between complex data and actionable business insights through advanced machine learning, statistical analysis, and artificial intelligence. Passionate about building models that solve real-world problems.
 
-### 🔬 My Expertise:
+## 🔬 My Expertise
+
 - **Predictive Modeling & Machine Learning**
-- **Deep Learning & Neural Networks**
+- **Deep Learning & Neural Networks** 
 - **Statistical Analysis & Hypothesis Testing**
 - **Data Visualization & Business Intelligence**
 - **Natural Language Processing**
 - **Big Data Analytics**
 
-### 📈 Featured Projects
+## 🚀 Featured Projects
+
 [Show 2-3 of your best projects here with brief descriptions]
 
-### 🛠️ Tech Stack
-**Languages:** Python, R, SQL, JavaScript
-**ML/DL:** Scikit-learn, TensorFlow, PyTorch, XGBoost
-**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
-**Big Data:** Spark, Hadoop, AWS
+## 🛠️ Tech Stack
+
+**Languages:** Python, R, SQL, JavaScript  
+**ML/DL:** Scikit-learn, TensorFlow, PyTorch, XGBoost  
+**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+**Big Data:** Spark, Hadoop, AWS  
 **Databases:** MySQL, PostgreSQL, MongoDB
 
 ---
-*"Data is the new oil, but AI is the refinery that extracts its true value."*
+
+> "Data is the new oil, but AI is the refinery that extracts its true value."
