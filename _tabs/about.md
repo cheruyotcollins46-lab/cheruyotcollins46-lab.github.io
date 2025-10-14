@@ -1,28 +1,49 @@
-# Transforming Data into Intelligent Solutions
+---
+Title: ABOUT
+icon: far-fa user
+---
+# About Me
 
-I bridge the gap between complex data and actionable business insights through advanced machine learning, statistical analysis, and artificial intelligence. Passionate about building models that solve real-world problems.
+## Hello! I'm Cheruyot Collins 👋
 
-## 🔬 My Expertise
-
-- **Predictive Modeling & Machine Learning**
-- **Deep Learning & Neural Networks** 
-- **Statistical Analysis & Hypothesis Testing**
-- **Data Visualization & Business Intelligence**
-- **Natural Language Processing**
-- **Big Data Analytics**
-
-## 🚀 Featured Projects
-
-[Show 2-3 of your best projects here with brief descriptions]
-
-## 🛠️ Tech Stack
-
-**Languages:** Python, R, SQL, JavaScript  
-**ML/DL:** Scikit-learn, TensorFlow, PyTorch, XGBoost  
-**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-**Big Data:** Spark, Hadoop, AWS  
-**Databases:** MySQL, PostgreSQL, MongoDB
+**Data Scientist | Machine Learning Engineer | AI Researcher**
 
 ---
 
-> "Data is the new oil, but AI is the refinery that extracts its true value."
+## 🎯 My Mission
+
+To leverage cutting-edge machine learning and artificial intelligence techniques to solve challenging business problems, drive innovation, and create tangible value through data-driven solutions. I believe in building models that don't just perform well technically, but actually make a difference in the real world.
+
+## 🚀 My Journey
+
+My passion for data science began [mention your origin story - e.g., "during my statistics degree when I discovered the power of predictive modeling" or "while working as a software developer and seeing how data could transform business decisions"].
+
+Since then, I've dedicated myself to mastering the entire data science lifecycle - from data collection and cleaning to model deployment and monitoring. I thrive on the challenge of turning complex, messy data into clear, actionable insights.
+
+## 🔬 What I Do
+
+### **End-to-End Data Solutions**
+- **Data Analysis & Exploration:** Uncovering patterns and insights from raw data
+- **Machine Learning Development:** Building predictive models and AI systems
+- **Model Deployment & MLOps:** Taking models from Jupyter notebooks to production
+- **Data Visualization:** Creating compelling visual stories from complex data
+- **Business Intelligence:** Translating technical findings into strategic recommendations
+
+### **Domain Expertise**
+- **Predictive Modeling** for business forecasting and risk assessment
+- **Natural Language Processing** for text analysis and understanding
+- **Computer Vision** for image recognition and processing
+- **Statistical Analysis** for hypothesis testing and experimental design
+- **Big Data Analytics** for processing large-scale datasets
+
+## 🛠️ Technical Proficiency
+
+```python
+# My Data Science Toolkit
+Core Languages:    Python · R · SQL · JavaScript
+Machine Learning:  Scikit-learn · XGBoost · LightGBM · CatBoost
+Deep Learning:     TensorFlow · PyTorch · Keras · Transformers
+Data Processing:   Pandas · NumPy · Spark · Hadoop
+Visualization:     Matplotlib · Seaborn · Plotly · Tableau
+Cloud & Tools:     AWS · Docker · Git · MLflow · FastAPI
+Databases:         MySQL · PostgreSQL · MongoDB · Redis
