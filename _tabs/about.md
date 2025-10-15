@@ -10,22 +10,22 @@ icon: fas fa-user
   exploring how analytical insights can solve real-world challenges and shape innovation in AI.
 
 strengths:
-  - "🔍 Analytical Thinking – Breaking down complex problems into data-driven insights."
-  - "📈 Quantitative & Statistical Skills – Strong foundation in probability, regression, and data modeling."
-  - "🤖 Machine Learning Expertise – Skilled in building, tuning, and deploying predictive models."
-  - "🧠 AI Research Mindset – Exploring deep learning, NLP, and generative AI."
-  - "📊 Data Visualization & Storytelling – Turning data into actionable narratives."
-  - "⚙️ Problem Solving & Critical Thinking – Creative and methodical in data solutions."
+  - 🔍 Analytical Thinking – Breaking down complex problems into data-driven insights."
+  - 📈 Quantitative & Statistical Skills – Strong foundation in probability, regression, and data modeling."
+  - 🤖 Machine Learning Expertise – Skilled in building, tuning, and deploying predictive models."
+  - 🧠 AI Research Mindset – Exploring deep learning, NLP, and generative AI."
+  - 📊 Data Visualization & Storytelling – Turning data into actionable narratives."
+  - ⚙️ Problem Solving & Critical Thinking – Creative and methodical in data solutions."
   - "🤝 Collaboration & Communication – Strong teamwork and project delivery skills."
 
 technologies:
-  - category: "🖥️ Programming & Data Analysis"
+  - category: 🖥️ Programming & Data Analysis"
     tools: |
       • Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
       • R (Tidyverse, ggplot2, dplyr)  
       • SQL (MySQL, PostgreSQL)
   
-  - category: "🤖 Machine Learning & AI"
+  - category: 🤖 Machine Learning & AI"
     tools: |
       • TensorFlow  
       • Keras  
@@ -35,7 +35,7 @@ technologies:
       • LightGBM  
       • NLP (spaCy, Hugging Face, NLTK)
   
-  - category: "📊 Data Visualization"
+  - category: 📊 Data Visualization"
     tools: |
       • Power BI  
       • Tableau  
@@ -43,21 +43,19 @@ technologies:
       • Matplotlib  
       • Seaborn
   
-  - category: "☁️ Big Data & Cloud"
+  - category: ☁️ Big Data & Cloud"
     tools: |
       • Google Cloud  
       • AWS  
       • Spark (basic)
   
-  - category: "⚙️ Tools & Platforms"
+  - category: ⚙️ Tools & Platforms"
     tools: |
       • Git & GitHub  
       • Jupyter Notebook  
       • Kaggle  
       • Excel
 
-vision: >
-  To contribute to the world of AI and data science by developing data-driven systems 
-  that inspire smarter decisions, impactful research, and technological innovation.
+
 
 
