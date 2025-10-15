@@ -14,7 +14,6 @@ layout: post
 ---
 
 # A Journey into Data Science, Machine Learning, Artificial Intelligence, Deep Learning, and Statistics  
-_By Cheruyot Collins — Data Scientist, AI Researcher, and Statistician_
 
 ---
 
