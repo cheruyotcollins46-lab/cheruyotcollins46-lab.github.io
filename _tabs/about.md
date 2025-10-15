@@ -21,26 +21,26 @@ STRENGTHS:
 
 TECHNOLOGIES:
   Programming_and_Data_Analysis:
-    - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-    - R (Tidyverse, ggplot2, dplyr)
-    - SQL (MySQL, PostgreSQL)
+    - 'Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+    - 'R (Tidyverse, ggplot2, dplyr)
+    - 'SQL (MySQL, PostgreSQL)
   Machine_Learning_and_AI:
-    - PyTorch
-    - Scikit-learn
-    - XGBoost
+    - 'PyTorch
+    - 'Scikit-learn
+    - 'XGBoost
     - LightGBM
-    - NLP (spaCy, Hugging Face, NLTK)
+    - 'NLP (spaCy, Hugging Face, NLTK)
   Data_Visualization:
-    - Power BI
-    - Tableau
-    - Plotly
+    - 'Power BI
+    - 'Tableau
+    - 'Plotly
   Big_Data_and_Cloud:
-    - Google Cloud
-    - AWS
-    - Spark (basic)
+    - 'Google Cloud
+    - 'AWS
+    - 'Spark (basic)
   Tools_and_Platforms:
-    - Git & GitHub
-    - Jupyter Notebook
-    - Kaggle
-    - Excel
+    - 'Git & GitHub
+    - 'Jupyter Notebook
+    - 'Kaggle
+    -' Excel
 
