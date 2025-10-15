@@ -22,7 +22,6 @@ Innovative and analytical Data Scientist and Statistician with a solid foundatio
 - Built interactive Power BI dashboards to visualize KPIs for business intelligence insights.  
 - Applied deep learning models (TensorFlow, Keras) for image and text-based analysis.  
 - Automated data collection, preprocessing, and reporting workflows.  
-- Collaborated on academic and industry research projects linking **TVET trainees’ employability and industry partnerships** using linear regression models.  
 
 ---
 
@@ -62,9 +61,9 @@ Innovative and analytical Data Scientist and Statistician with a solid foundatio
 
 ## 🧠 Technical Skills
 - **Programming:** Python, R, SQL, MATLAB  
-- **Data Analysis:** Pandas, NumPy, Scikit-learn, TensorFlow, SPSS  
+- **Data Analysis:** Pandas, NumPy, Scikit-learn, SPSS  
 - **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Database Management:** MySQL, PostgreSQL  
+- **Database Management:** MySQL,  
 - **Tools & Platforms:** GitHub, Jupyter, Google Colab  
 - **Soft Skills:** Problem-Solving, Teamwork, Analytical Thinking, Research Writing  
 
