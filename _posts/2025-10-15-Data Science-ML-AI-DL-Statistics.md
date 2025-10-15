@@ -1,6 +1,6 @@
 ---
 title: "A Journey into Data Science,Machine Learning,Artificial Intelligence, Deep Learning and Statistics"
-categories: [tech, ai, ]
+categories: [Tech&Ai]
 tags: [Data Science,Machine Learning, Deep Learning, Artificial Intelligence, Statistics]
 ---
 
