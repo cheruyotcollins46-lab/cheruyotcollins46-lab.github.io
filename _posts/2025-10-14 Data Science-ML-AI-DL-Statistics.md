@@ -4,19 +4,6 @@ categories: [tech, ai, ]
 tags: [Data Science,Machine Learning, Deep Learning, Artificial Intelligence, Statistics]
 ---
 
----
-title: "A Journey into Data Science, Machine Learning, Artificial Intelligence, Deep Learning, and Statistics"
-author: "Cheruyot Collins"
-date: 2025-10-15
-categories: [Tech, AI, Research]
-tags: [Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Statistics]
-layout: post
----
-
-# A Journey into Data Science, Machine Learning, Artificial Intelligence, Deep Learning, and Statistics  
-
----
-
 ## 🌍 Introduction
 
 Hi! I’m **Cheruyot Collins**, a passionate **Data Scientist**, **AI Researcher**, and **Statistician** driven by curiosity, logic, and creativity.  
