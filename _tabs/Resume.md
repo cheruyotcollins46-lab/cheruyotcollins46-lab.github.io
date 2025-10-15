@@ -3,11 +3,6 @@ layout: "default"
 title: "Resume"
 icon: "fa-solid fa-rocket"
 ---
----
-layout: "default"
-title: "Resume"
-icon: "fa-solid fa-user"
----
   <h1>Collins Cheruiyot</h1>
   <p><em>Data Scientist | Business Intelligence Analyst | Statistician</em></p>
   <a href="mailto:cheruyotcollins46@gmail.com">📧 cheruyotcollins46@gmail.com</a><br>
