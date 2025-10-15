@@ -1,7 +1,7 @@
 ---
-title: "A Journey into Data AI and Deep Learning"
+title: "A Journey into Data Science,Machine Learning,Artificial Intelligence, Deep Learning and Statistics"
 categories: [tech, ai, data-science]
-tags: [machine-learning, deep-learning, artificial-intelligence, statistics, python]
+tags: [machine-learning, deep-learning, artificial-intelligence, statistics]
 author: "Cheruyot Collins"
 date: 2024-01-01
 ---
