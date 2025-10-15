@@ -4,10 +4,10 @@ layout: default
 icon: fas fa-tags
 order : 2
 ---
+
 <div class="tags-page">
   <h1 class="page-title">🏷️ Tags</h1>
   <p class="page-description">
-    Explore topics across Data Science, Machine Learning, AI, Deep Learning, and more.
   </p>
 
   <div class="search-container">
@@ -15,11 +15,14 @@ order : 2
   </div>
 
   <ul id="tagList" class="tag-list">
-    <li><a href="#">🤖 Artificial Intelligence</a></li>
-    <li><a href="#">📊 Data Science</a></li>
-    <li><a href="#">🧠 Deep Learning</a></li>
-    <li><a href="#">⚙️ Machine Learning</a></li>
-    <li><a href="#">📈 Statistics</a></li>
+    {% for tag in site.tags %}
+      <li>
+        <a href="{{ '/tags/' | append: tag[0] | relative_url }}">
+          {{ tag[0] | capitalize }}
+          <span>({{ tag[1].size }})</span>
+        </a>
+      </li>
+    {% endfor %}
   </ul>
 </div>
 
@@ -84,6 +87,11 @@ order : 2
   color: #fff;
   text-decoration: none;
   font-weight: 600;
+}
+.tag-list span {
+  color: #ccc;
+  font-weight: 400;
+  font-size: 0.9rem;
 }
 </style>
 
