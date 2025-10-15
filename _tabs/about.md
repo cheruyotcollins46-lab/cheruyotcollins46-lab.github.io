@@ -8,14 +8,37 @@ icon: fas fa-user
   I enjoy working at the intersection of data, statistics, and machine learning — 
   exploring how analytical insights can solve real-world challenges and shape innovation in AI.
 
-strengths:
-🔍 Analytical Thinking – Breaking down complex problems into data-driven insights.
-📈 Quantitative & Statistical Skills – Strong foundation in probability, regression, and data modeling.
-🤖 Machine Learning Expertise – Skilled in building, tuning, and deploying predictive models.
-🧠 AI Research Mindset – Exploring deep learning, NLP, and generative AI.
- 📊 Data Visualization & Storytelling – Turning data into actionable narratives.
-⚙️ Problem Solving & Critical Thinking – Creative and methodical in data solutions.
-🤝 Collaboration & Communication – Strong teamwork and project delivery skills.
+---
+
+<!-- 💡 STRENGTHS SECTION -->
+<h2 style="color:#FF6F61; font-weight:bold;">STRENGTHS</h2>
+
+<div style="background:linear-gradient(90deg,#232526,#414345); padding:1rem 1.5rem; border-radius:15px; color:#ddd; font-size:1rem;">
+  <ul style="list-style-type:none; padding-left:0;">
+    <li>🔍 <b>Analytical Thinking:</b> Breaking down complex problems into data-driven insights.</li>
+    <li>📈 <b>Quantitative & Statistical Skills:</b> Strong foundation in probability, regression, and data modeling.</li>
+    <li>🤖 <b>Machine Learning Expertise:</b> Skilled in building, tuning, and deploying predictive models.</li>
+    <li>🧠 <b>AI Research Mindset:</b> Exploring deep learning, NLP, and generative AI.</li>
+    <li>📊 <b>Data Visualization & Storytelling:</b> Turning data into actionable narratives.</li>
+    <li>⚙️ <b>Problem Solving & Critical Thinking:</b> Creative and methodical in data solutions.</li>
+    <li>🤝 <b>Collaboration & Communication:</b> Strong teamwork and project delivery skills.</li>
+  </ul>
+</div>
+
+---
+
+<!-- 🧰 TECHNOLOGIES SECTION -->
+<h2 style="color:#FF6F61; font-weight:bold;">TECHNOLOGIES</h2>
+
+<div style="background:linear-gradient(90deg,#141E30,#243B55); padding:1rem 1.5rem; border-radius:15px; color:#ddd; font-size:1rem;">
+  <h3 style="color:#F2C811;">🖥️ Programming & Data Analysis Tools</h3>
+  <ul style="list-style-type:none; padding-left:0;">
+    <li>🐍 <b>Python:</b> Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn</li>
+    <li>📘 <b>R:</b> Tidyverse, ggplot2, dplyr</li>
+    <li>💾 <b>SQL:</b> MySQL, PostgreSQL</li>
+  </ul>
+</div>
+
 
 technologies:
 🖥️ Programming & Data Analysis
