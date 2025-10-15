@@ -1,61 +1,80 @@
 ---
-layout: tags
+layout: page
+title: Tags
 icon: fas fa-tags
 order: 2
 ---
-<style>
-  body {
-    background: #0d0d1b;
-    color: #e6e6e6;
-    font-family: 'Poppins', sans-serif;
-  }
 
-  h1 {
-    text-align: center;
-    color: #FF6F61;
-    margin-top: 2rem;
-  }
+<div class="tags-page">
+  <h1 class="page-title">🏷️ Tags</h1>
 
-  .tag-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: 2rem auto;
-    max-width: 900px;
-    gap: 1rem;
-  }
+  <input type="text" id="tagSearch" placeholder="🔍 Search tags..." class="tag-search"/>
 
-  .tag {
-    background: linear-gradient(135deg, #1a1a2e, #16213e);
-    color: #fff;
-    padding: 0.7rem 1.2rem;
-    border-radius: 30px;
-    font-weight: bold;
-    font-size: 1rem;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-    transition: transform 0.3s ease, background 0.3s ease;
-  }
-
-  .tag:hover {
-    transform: translateY(-5px);
-    background: linear-gradient(135deg, #FF6F61, #ff9f80);
-  }
-
-  .tag a {
-    color: #fff;
-    text-decoration: none;
-  }
-</style>
-
-<h1>🏷️ Tags</h1>
-
-<div class="tag-container">
-  {% assign tags = site.tags | sort %}
-  {% for tag in tags %}
-  <div class="tag">
-    <a href="{{ site.baseurl }}/tags/{{ tag[0] | slugify }}/">
-      {{ tag[0] }} ({{ tag[1].size }})
-    </a>
-  </div>
-  {% endfor %}
+  <ul class="tag-list">
+    {% assign tags_list = site.tags | sort %}
+    {% for tag in tags_list %}
+      <li class="tag-item">
+        <a href="{{ site.baseurl }}/tags/{{ tag[0] | slugify }}/" class="tag-link">
+          {{ tag[0] | capitalize }}
+        </a>
+        <span class="tag-count">({{ tag[1].size }})</span>
+      </li>
+    {% endfor %}
+  </ul>
 </div>
+
+<script>
+  // Tag search functionality
+  document.addEventListener('DOMContentLoaded', () => {
+    const input = document.getElementById('tagSearch');
+    input.addEventListener('keyup', () => {
+      const filter = input.value.toLowerCase();
+      document.querySelectorAll('.tag-item').forEach(item => {
+        const text = item.textContent.toLowerCase();
+        item.style.display = text.includes(filter) ? '' : 'none';
+      });
+    });
+  });
+</script>
+
+<style>
+.tags-page {
+  max-width: 700px;
+  margin: 2rem auto;
+  text-align: center;
+}
+.page-title {
+  color: #ff6f61;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+.tag-search {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid #555;
+  background-color: #111;
+  color: #fff;
+}
+.tag-list {
+  list-style: none;
+  padding: 0;
+}
+.tag-item {
+  margin: 0.5rem 0;
+  font-size: 1.05rem;
+}
+.tag-link {
+  color: #ff9966;
+  text-decoration: none;
+  font-weight: 600;
+}
+.tag-link:hover {
+  text-decoration: underline;
+}
+.tag-count {
+  color: #ccc;
+  margin-left: 0.5rem;
+}
+</style>
