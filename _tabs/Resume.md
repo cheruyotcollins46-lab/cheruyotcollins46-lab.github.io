@@ -3,9 +3,6 @@ layout: "default"
 title: "Resume"
 icon: "fa-solid fa-rocket"
 ---
-
-<div align="center">
-  <img src="/assets/images/collins.jpg" alt="Cheruyot Collins" width="160" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.3); margin-bottom: 10px;" />
   
   <h1>Cheruyot Collins</h1>
   <p><strong>Data Scientist | Statistician | Machine Learning & Deep Learning Enthusiast</strong></p>
