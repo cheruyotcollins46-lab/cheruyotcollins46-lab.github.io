@@ -1,43 +1,63 @@
 ---
-layout: default
-title: ABOUT
+layout: page
+title: "ABOUT"
 icon: fas fa-user
 ---
-## 💡 About
 
-Hi! I’m **Cheruyot Collins**, a passionate **Data Scientist**, **AI Researcher**, **Statistician**, and **Data Analyst** driven by curiosity and the power of data to transform ideas into intelligent solutions.  
-I enjoy working at the intersection of data, statistics, and machine learning — exploring how analytical insights can solve real-world challenges and shape innovation in AI.
+<section class="about-section">
+  <div class="about-header">
+    <h1>👋 Hi, I’m <span class="highlight">Cheruyot Collins</span></h1>
+    <p class="tagline">Data Scientist | AI Researcher | Statistician | Data Analyst</p>
+  </div>
 
----
+  <div class="about-content">
+    <p>
+      I’m a passionate <strong>Data Scientist</strong>, <strong>AI Researcher</strong>,
+      <strong>Statistician</strong>, and <strong>Data Analyst</strong> driven by curiosity and the power of data to transform
+      ideas into intelligent solutions.
+    </p>
+    <p>
+      I enjoy working at the intersection of data, statistics, and machine learning —
+      exploring how analytical insights can solve real-world challenges and shape innovation in AI.
+    </p>
+  </div>
 
-## 💪 Strengths
+  <hr class="divider">
 
-- 🔍 **Analytical Thinking:** Breaking down complex problems into data-driven insights.  
-- 📈 **Quantitative & Statistical Skills:** Strong foundation in probability, regression, and data modeling.  
-- 🤖 **Machine Learning Expertise:** Skilled in building, tuning, and deploying predictive models.  
-- 🧠 **AI Research Mindset:** Exploring deep learning, NLP, and generative AI.  
-- 📊 **Data Visualization & Storytelling:** Turning data into actionable narratives.  
-- ⚙️ **Problem Solving & Critical Thinking:** Creative and methodical in data solutions.  
-- 🤝 **Collaboration & Communication:** Strong teamwork and project delivery skills.  
+  <div class="strengths">
+    <h2>💪 Strengths</h2>
+    <ul>
+      <li>🔍 <b>Analytical Thinking:</b> Breaking down complex problems into data-driven insights.</li>
+      <li>📈 <b>Quantitative & Statistical Skills:</b> Strong foundation in probability, regression, and data modeling.</li>
+      <li>🤖 <b>Machine Learning Expertise:</b> Skilled in building, tuning, and deploying predictive models.</li>
+      <li>🧠 <b>AI Research Mindset:</b> Exploring deep learning, NLP, and generative AI.</li>
+      <li>📊 <b>Data Visualization & Storytelling:</b> Turning data into actionable narratives.</li>
+      <li>⚙️ <b>Problem Solving & Critical Thinking:</b> Creative and methodical in data solutions.</li>
+      <li>🤝 <b>Collaboration & Communication:</b> Strong teamwork and project delivery skills.</li>
+    </ul>
+  </div>
 
----
+  <hr class="divider">
 
-## ⚙️ Technologies
+  <div class="technologies">
+    <h2>⚙️ Technologies</h2>
 
-### 🖥️ Programming & Data Analysis
-- 🐍 **Python:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- 📘 **R:** Tidyverse, ggplot2, dplyr  
-- 💾 **SQL:** MySQL, PostgreSQL  
+<h3>🖥️ Programming & Data Analysis</h3>
+    <p>🐍 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)<br>
+    📘 R (Tidyverse, ggplot2, dplyr)<br>
+    💾 SQL (MySQL, PostgreSQL)</p>
 
-### 🤖 Machine Learning & AI
-- TensorFlow · Keras · PyTorch · Scikit-learn · XGBoost · LightGBM  
-- NLP: spaCy · Hugging Face · NLTK  
+ <h3>🤖 Machine Learning & AI</h3>
+    <p>TensorFlow · Keras · PyTorch · Scikit-learn · XGBoost · LightGBM<br>
+    NLP: spaCy · Hugging Face · NLTK</p>
 
-### 📊 Data Visualization
-- Power BI · Tableau · Plotly · Matplotlib · Seaborn  
+<h3>📊 Data Visualization</h3>
+    <p>Power BI · Tableau · Plotly · Matplotlib · Seaborn</p>
 
-### ☁️ Big Data & Cloud
-- Google Cloud · AWS · Spark (basic)  
+<h3>☁️ Big Data & Cloud</h3>
+    <p>Google Cloud · AWS · Spark (basic)</p>
 
-### 🧰 Tools & Platforms
-- Git & GitHub · Jupyter Notebook · Kaggle · Excel  
+ <h3>🧰 Tools & Platforms</h3>
+    <p>Git & GitHub · Jupyter Notebook · Kaggle · Excel</p>
+  </div>
+</section>
