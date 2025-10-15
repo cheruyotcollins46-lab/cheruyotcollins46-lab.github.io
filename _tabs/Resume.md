@@ -74,8 +74,8 @@ Innovative and analytical Data Scientist and Statistician with a solid foundatio
 - **Mr. Mark Kitur** — Safaricom PLC | [marikokitur@gmail.com](mailto:marikokitur@gmail.com)   
 
 ---
-
 <div align="center" style="margin-top:30px;">
   <p>© 2025 <strong>CHERUYOT COLLINS</strong>. Some rights reserved.</p>
 </div>
+---
 
