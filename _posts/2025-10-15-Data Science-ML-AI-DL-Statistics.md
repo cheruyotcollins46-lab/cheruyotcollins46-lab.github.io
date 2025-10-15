@@ -39,8 +39,6 @@ It’s about teaching systems to recognize patterns and make data-driven predict
 - Model Evaluation (Cross-Validation, ROC, AUC)
 - Deployment and MLOps (Flask, FastAPI, Streamlit)
 
-🧠 *Libraries I Love:*  
-Scikit-learn · XGBoost · LightGBM · TensorFlow · PyTorch
 
 ---
 
@@ -54,8 +52,6 @@ My AI research focuses on **Natural Language Processing (NLP)** and **Generative
 - AI Chatbots for Automated Support
 - Generative AI for Data Augmentation and Text Creation
 
-🌐 *Frameworks:*  
-Transformers (Hugging Face) · TensorFlow · PyTorch · spaCy · OpenAI APIs
 
 ---
 
@@ -69,8 +65,6 @@ I enjoy experimenting with **neural networks**, **CNNs**, and **LSTMs** to solve
 - Recurrent Networks (LSTM/GRU) for Time-Series & NLP
 - Transfer Learning and Pretrained Models
 - Model Explainability (SHAP, LIME)
-
-🚀 *Goal:* Develop interpretable deep models that combine accuracy with fairness and transparency.
 
 ---
 
