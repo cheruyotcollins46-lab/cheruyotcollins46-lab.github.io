@@ -4,8 +4,6 @@ icon: fas fa-user
 ---
 # About Me
 
-# About Me Section
-
 name: "Cheruyot Collins"
 title: "Data Scientist | AI Researcher | Statistician | Data Analyst"
 description: >
