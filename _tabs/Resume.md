@@ -3,10 +3,11 @@ layout: "default"
 title: "Resume"
 icon: "fa-solid fa-rocket"
 ---
-  
+
+<div align="center">
   <h1>Cheruyot Collins</h1>
   <p><strong>Data Scientist | Statistician | Machine Learning & Deep Learning Enthusiast</strong></p>
-  <p>📧 <a>cheruyotcollins46@gmail.com</a> | 📞 +254 716177915</p>
+  <p>📧 <a href="mailto:cheruyotcollins46@gmail.com">cheruyotcollins46@gmail.com</a> | 📞 +254 716177915</p>
 </div>
 
 ---
@@ -29,9 +30,9 @@ Innovative and analytical Data Scientist and Statistician with a solid foundatio
 
 ### **Data Science Intern**
 **Techsavanna Software Institute**  
-- Work with the data analytics team to design and implement data pipelines.  
-- Perform exploratory data analysis (EDA) and build ML models for predictive analytics.  
-- Support AI integration in business solutions using Python and SQL.  
+- Worked with the data analytics team to design and implement data pipelines.  
+- Performed exploratory data analysis (EDA) and built ML models for predictive analytics.  
+- Supported AI integration in business solutions using Python and SQL.  
 
 ### **Statistician Attachee**
 **Nairobi County Revenue Department** | *May 2019 – August 2019*  
@@ -49,11 +50,12 @@ Innovative and analytical Data Scientist and Statistician with a solid foundatio
 - Key Tools: Python, Power BI, SQL, Pandas, Scikit-learn  
 
 ### **CyberShujaa Program**  
-**Certificate in Data and AI** 
+**Certificate in Data and AI**  
 - Specialized in Data Engineering, AI Systems, and Data Security  
 
 ### **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**  
 **Bachelor of Science in Statistics** | *2015 – 2019*  
+
 ### **Kamureito High School**  
 **Kenya Certificate of Secondary Education (KCSE)** | *2011 - 2014*  
 
@@ -63,7 +65,7 @@ Innovative and analytical Data Scientist and Statistician with a solid foundatio
 - **Programming:** Python, R, SQL, MATLAB  
 - **Data Analysis:** Pandas, NumPy, Scikit-learn, SPSS  
 - **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Database Management:** MySQL,  
+- **Database Management:** MySQL  
 - **Tools & Platforms:** GitHub, Jupyter, Google Colab  
 - **Soft Skills:** Problem-Solving, Teamwork, Analytical Thinking, Research Writing  
 
@@ -74,7 +76,7 @@ Innovative and analytical Data Scientist and Statistician with a solid foundatio
 - **Mr. Mark Kitur** — Safaricom PLC | [marikokitur@gmail.com](mailto:marikokitur@gmail.com)   
 
 ---
+
 <div align="center" style="margin-top:30px;">
   <p>© 2025 <strong>CHERUYOT COLLINS</strong>. Some rights reserved.</p>
 </div>
-
