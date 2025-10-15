@@ -34,3 +34,47 @@ Key analyses performed:
 Developed clear visual narratives and insights explaining socio-economic survival disparities on the Titanic, demonstrating strong analytical reasoning and storytelling using data.  
 
 **🔗 Repo/Demo:** [View on Kaggle](https://www.kaggle.com/code/collinscheruyot/collins-cheruyot-eda)
+## 🏨 Hotel Performance Analytics Dashboard
+**🔧 Tech Stack:** ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+**📄 Description:**  
+Developed a comprehensive **Power BI dashboard** to analyze and visualize **hotel performance metrics** across multiple properties. The project provides data-driven insights into **revenue performance, occupancy trends, and operational efficiency**, helping hotel managers make informed business decisions.
+
+**💼 Project Objectives:**  
+- To monitor and evaluate **key hotel KPIs** such as ADR, RevPAR, DBRN, DSRN, DURN, and realization rates.  
+- To provide a **centralized dashboard** for analyzing hotel revenue streams, cancellations, and booking behavior.  
+- To improve **strategic decision-making** by identifying performance patterns and anomalies across branches.  
+
+**📊 Key Features:**  
+- **Revenue & Occupancy Analysis:** Displays monthly and yearly trends for occupancy rates, total revenue, and bookings.  
+- **Performance Metrics Tracking:** Calculates **Average Daily Rate (ADR)**, **Revenue per Available Room (RevPAR)**, and **Realization Rates**.  
+- **Cancellations & Customer Behavior:** Visualizes cancellation patterns and their impact on revenue using dynamic filters.  
+- **Interactive Slicers:** Enables users to segment data by property, month, customer type, or booking channel.  
+- **Drill-through Reports:** Allows deeper exploration into individual hotel performance for management reporting.
+
+**📈 Metrics Covered:**  
+- ADR (Average Daily Rate)  
+- RevPAR (Revenue per Available Room)  
+- DBRN (Daily Booked Room Nights)  
+- DSRN (Daily Sold Room Nights)  
+- DURN (Daily Utilized Room Nights)  
+- Cancellation Rate  
+- Realization Rate  
+
+**🧠 Insights Derived:**  
+- Seasonal peaks in bookings correlated with promotional campaigns.  
+- High ADR and RevPAR in city-center properties indicated strong demand elasticity.  
+- Cancellations were higher among online bookings compared to direct bookings.  
+- Improved realization rates after operational adjustments and better booking management.  
+
+**🧾 Tools & Methods Used:**  
+- **Power BI Desktop:** Data modeling, DAX measures, and report design.  
+- **Excel:** Initial data preprocessing and cleaning.  
+- **Power Query:** Data transformation and integration.  
+
+**📂 Output:**  
+A dynamic, visually compelling dashboard providing actionable insights to hotel management for revenue optimization and improved customer satisfaction.
+
+**🔗 Links:**  
+- [📁 View on Google Drive](https://drive.google.com/drive/folders/1aSenLCGqsHnwSWexLkiL-HpEYkuH42JE?usp=drive_link)  
+- [📊 Download PBIX File](https://drive.google.com/drive/folders/1aSenLCGqsHnwSWexLkiL-HpEYkuH42JE?usp=drive_link)
