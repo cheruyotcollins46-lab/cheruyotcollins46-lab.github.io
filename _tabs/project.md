@@ -1,7 +1,7 @@
 ---
 layout: "default"
 title: "Projects"
-icon:fa-solid fa-rocket
+icon: "fa-solid fa-rocket"
 ---
 
 # 🚀 My Projects
