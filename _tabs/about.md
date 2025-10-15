@@ -9,13 +9,13 @@ icon: fas fa-user
   exploring how analytical insights can solve real-world challenges and shape innovation in AI.
 
 strengths:
-🔍 Analytical Thinking – Breaking down complex problems into data-driven insights."
-📈 Quantitative & Statistical Skills – Strong foundation in probability, regression, and data modeling."
-🤖 Machine Learning Expertise – Skilled in building, tuning, and deploying predictive models."
-🧠 AI Research Mindset – Exploring deep learning, NLP, and generative AI."
- 📊 Data Visualization & Storytelling – Turning data into actionable narratives."
-⚙️ Problem Solving & Critical Thinking – Creative and methodical in data solutions."
-🤝 Collaboration & Communication – Strong teamwork and project delivery skills."
+🔍 Analytical Thinking – Breaking down complex problems into data-driven insights.
+📈 Quantitative & Statistical Skills – Strong foundation in probability, regression, and data modeling.
+🤖 Machine Learning Expertise – Skilled in building, tuning, and deploying predictive models.
+🧠 AI Research Mindset – Exploring deep learning, NLP, and generative AI.
+ 📊 Data Visualization & Storytelling – Turning data into actionable narratives.
+⚙️ Problem Solving & Critical Thinking – Creative and methodical in data solutions.
+🤝 Collaboration & Communication – Strong teamwork and project delivery skills.
 
 technologies:
 🖥️ Programming & Data Analysis
