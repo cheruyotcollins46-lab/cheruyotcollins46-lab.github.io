@@ -85,7 +85,7 @@ From hypothesis testing to regression analysis, statistics provides the mathemat
 - Regression (Linear, Logistic, Multivariate)
 - Experimental Design & A/B Testing
 
-📘 *Favorite Tools:* R · Python Statsmodels · Excel · Minitab
+📘 *Tools:* R · Python Statsmodels · Excel · Minitab
 
 ---
 
