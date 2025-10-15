@@ -1,8 +1,7 @@
 ---
-Title: ABOUT
+Title: About Me
 icon: fas fa-user
 ---
-# About Me
   Hi! I’m **Cheruyot Collins**, a passionate **Data Scientist**, **AI Researcher**, 
   **Statistician**, and **Data Analyst** driven by curiosity and the power of data 
   to transform ideas into intelligent solutions.  
