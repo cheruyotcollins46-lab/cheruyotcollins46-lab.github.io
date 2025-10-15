@@ -1,5 +1,5 @@
 ---
-layout: dedfault
+layout: default
 title: ABOUT
 icon: fas fa-user
 ---
