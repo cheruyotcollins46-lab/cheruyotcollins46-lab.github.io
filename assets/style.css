@@ -1,0 +1,86 @@
+/* =====================
+   ABOUT PAGE STYLING
+   ===================== */
+
+.about-section {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+  line-height: 1.7;
+  font-size: 1.05rem;
+  color: #ddd;
+  background: linear-gradient(180deg, #0a0a1f 0%, #14143a 100%);
+  border-radius: 20px;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.05);
+}
+
+.about-header h1 {
+  font-size: 2rem;
+  color: #fff;
+  text-align: center;
+}
+
+.highlight {
+  color: #ff6f61;
+}
+
+.tagline {
+  text-align: center;
+  color: #aaa;
+  font-style: italic;
+  margin-bottom: 1.5rem;
+}
+
+.about-content p {
+  text-align: center;
+  margin-bottom: 1rem;
+  color: #ccc;
+}
+
+.divider {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, #ff6f61, #ff9966);
+  margin: 2rem 0;
+  border-radius: 2px;
+}
+
+.strengths, .technologies {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 1.5rem;
+  border-radius: 15px;
+  margin-bottom: 2rem;
+}
+
+.strengths h2, .technologies h2 {
+  color: #ff6f61;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #ff6f61;
+  display: inline-block;
+  padding-bottom: 0.3rem;
+}
+
+.strengths ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.strengths li {
+  margin: 0.5rem 0;
+}
+
+.technologies h3 {
+  color: #9ad0ff;
+  margin-top: 1rem;
+}
+
+.technologies p {
+  color: #ccc;
+  margin-left: 1rem;
+}
+
+/* Hover Effects */
+.technologies h3:hover, .strengths h2:hover {
+  color: #ff9966;
+  transition: color 0.3s ease;
+}
