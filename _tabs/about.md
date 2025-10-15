@@ -4,44 +4,58 @@ icon: fas fa-user
 ---
 # About Me
 
-## Hello! I'm Cheruyot Collins 👋
+##👋 About Me
 
-**Data Scientist | Machine Learning Engineer | Statistician | AI Researcher**
+Hi! I’m Cheruyot Collins, a passionate Data Scientist, AI Researcher, Statistician, and Data Analyst driven by curiosity and the power of data to transform ideas into intelligent solutions.
 
----
+I enjoy working at the intersection of data, statistics, and machine learning, exploring how analytical insights can solve real-world challenges and shape innovation in AI.
 
-## 🎯 My Mission
+##💪 Strengths
 
-To leverage cutting-edge machine learning and artificial intelligence techniques to solve challenging business problems, drive innovation, and create tangible value through data-driven solutions. I believe in building models that don't just perform well technically, but actually make a difference in the real world.
+🔍 Analytical Thinking – Excellent at breaking down complex problems into data-driven insights.
 
-## 🚀 My Journey
+📈 Quantitative & Statistical Skills – Strong foundation in probability, regression, and experimental design.
 
-My passion for data science began [mention your origin story - e.g., "during my statistics degree when I discovered the power of predictive modeling" or "while working as a software developer and seeing how data could transform business decisions"].
+🤖 Machine Learning Expertise – Skilled in building, tuning, and deploying predictive models.
 
-Since then, I've dedicated myself to mastering the entire data science lifecycle - from data collection and cleaning to model deployment and monitoring. I thrive on the challenge of turning complex, messy data into clear, actionable insights.
+🧠 AI Research Mindset – Passion for exploring deep learning, natural language processing, and generative AI.
 
-## 🔬 What I Do
+📊 Data Visualization & Storytelling – Turning raw data into actionable narratives using modern visualization tools.
 
-### **End-to-End Data Solutions**
-- **Data Analysis & Exploration:** Uncovering patterns and insights from raw data
-- **Machine Learning Development:** Building predictive models and AI systems
-- **Model Deployment & MLOps:** Taking models from Jupyter notebooks to production
-- **Data Visualization:** Creating compelling visual stories from complex data
-- **Business Intelligence:** Translating technical findings into strategic recommendations
+⚙️ Problem Solving & Critical Thinking – Methodical and creative in developing efficient data solutions.
 
-### **Domain Expertise**
-- **Predictive Modeling** for business forecasting and risk assessment
-- **Natural Language Processing** for text analysis and understanding
-- **Computer Vision** for image recognition and processing
-- **Statistical Analysis** for hypothesis testing and experimental design
-- **Big Data Analytics** for processing large-scale datasets
+🤝 Collaboration & Communication – Experienced working in cross-functional teams to deliver impactful results.
 
-## 🛠️ Technical Proficiency
+##🧰 Technologies & Tools
 
-# My Data Science Toolkit
--Core Languages:    Python · R · SQL 
--Machine Learning:  Scikit-learn · XGBoost 
--Deep Learning:     TensorFlow · PyTorch · Keras · Transformers
--Data Processing:   Pandas · NumPy 
--Visualization:     Matplotlib · Seaborn · Plotly · Tableau. PowerBi
--Databases:         MySQL · PostgreSQL · MongoDB 
+Programming & Data Analysis
+
+Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+
+R (Tidyverse, ggplot2, dplyr)
+
+SQL (MySQL, PostgreSQL)
+
+Machine Learning & AI
+
+TensorFlow, Keras, PyTorch
+
+Scikit-learn, XGBoost, LightGBM
+
+NLP (spaCy, Hugging Face, NLTK)
+
+Data Visualization
+
+Power BI, Tableau, Matplotlib, Seaborn, Plotly
+
+Big Data & Cloud
+
+Google Cloud, AWS, Spark (basic understanding)
+
+Other Tools
+
+Git & GitHub, Jupyter Notebook, Kaggle, Excel
+
+##🎯 Vision
+
+To contribute to the growing world of AI and data science by developing data-driven systems that inspire smarter decisions, impactful research, and technological innovation.
