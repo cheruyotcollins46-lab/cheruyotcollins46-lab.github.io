@@ -9,7 +9,7 @@ icon: "fa-solid fa-rocket"
   
   <h1>Cheruyot Collins</h1>
   <p><strong>Data Scientist | Statistician | Machine Learning & Deep Learning Enthusiast</strong></p>
-  <p>📧 <a href="mailto:cheruyotcollins46@gmail.com">cheruyotcollins46@gmail.com</a> | 📞 +254 7XX XXX XXX</p>
+  <p>📧 <a>cheruyotcollins46@gmail.com</a> | 📞 +254 716177915</p>
 </div>
 
 ---
