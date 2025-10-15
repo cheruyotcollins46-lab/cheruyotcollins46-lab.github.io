@@ -1,5 +1,255 @@
 ---
 layout: default
-title: HOME
-icon: fas fa_home
+title: "HOME"
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cheruyot Collins | Data Scientist</title>
+  <style>
+    /* 🌙 Global Styles */
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: #0d0d1b;
+      color: #e6e6e6;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+
+    header {
+      text-align: center;
+      padding: 4rem 1rem 2rem;
+      background: linear-gradient(90deg, #1e1e2f, #232347);
+      box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+      color: #FF6F61;
+      margin: 0;
+    }
+
+    header p {
+      font-size: 1.1rem;
+      color: #ccc;
+      max-width: 700px;
+      margin: 0.5rem auto 0;
+    }
+
+    .section {
+      padding: 3rem 1rem;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    h2 {
+      text-align: center;
+      color: #FF6F61;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 1.5rem;
+    }
+
+    .intro {
+      text-align: center;
+      font-size: 1.1rem;
+      color: #ccc;
+      max-width: 750px;
+      margin: auto;
+    }
+
+    /* 💪 Skills Section */
+    .skills {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
+    }
+
+    .skill-card {
+      background: linear-gradient(135deg, #1a1a2e, #16213e);
+      padding: 1.5rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .skill-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 16px rgba(0,0,0,0.4);
+    }
+
+    .skill-card h3 {
+      color: #fff;
+      margin-bottom: 0.5rem;
+    }
+
+    .skill-card p {
+      font-size: 0.95rem;
+      color: #ccc;
+    }
+
+    /* 🚀 Projects Section */
+    .projects {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .project {
+      background: linear-gradient(90deg, #ff9966, #ff5e62);
+      padding: 1.5rem;
+      border-radius: 12px;
+      color: #fff;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      transition: transform 0.3s ease;
+    }
+
+    .project:hover {
+      transform: translateY(-4px);
+    }
+
+    .project h3 {
+      margin-top: 0;
+    }
+
+    .project p {
+      color: #111;
+      font-size: 1rem;
+    }
+
+    .project a {
+      display: inline-block;
+      margin-top: 0.5rem;
+      color: #fff;
+      font-weight: bold;
+      text-decoration: none;
+      transition: opacity 0.3s;
+    }
+
+    .project a:hover {
+      opacity: 0.8;
+    }
+
+    /* 🤝 Contact Section */
+    .contact {
+      text-align: center;
+      margin-top: 2rem;
+    }
+
+    .contact a {
+      color: #FF6F61;
+      font-weight: bold;
+      margin: 0 0.5rem;
+      text-decoration: none;
+      transition: color 0.3s;
+    }
+
+    .contact a:hover {
+      color: #ffa08f;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      color: #888;
+      font-size: 0.9rem;
+      border-top: 1px solid #222;
+      margin-top: 3rem;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- 🏠 Header -->
+  <header>
+    <h1>Cheruyot Collins</h1>
+    <p>Data Scientist | AI Researcher | Statistician | Data Analyst</p>
+  </header>
+
+  <!-- 👋 Intro -->
+  <section class="section">
+    <div class="intro">
+      <p>
+        Hi! I’m <b>Cheruyot Collins</b>, a passionate <b>Data Scientist</b>, <b>AI Researcher</b>, and <b>Statistician</b> driven by curiosity and the power of data to transform ideas into intelligent solutions.
+        I love exploring the intersection of data, statistics, and machine learning — discovering insights and building innovative AI systems.
+      </p>
+    </div>
+  </section>
+
+  <!-- 💪 Skills -->
+  <section class="section">
+    <h2>Skills</h2>
+    <div class="skills">
+      <div class="skill-card">
+        <h3>🧩 Programming & Analysis</h3>
+        <p>Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)<br>R (Tidyverse, ggplot2, dplyr)<br>SQL (MySQL, PostgreSQL)</p>
+      </div>
+
+      <div class="skill-card">
+        <h3>🤖 Machine Learning & AI</h3>
+        <p>TensorFlow · Keras · PyTorch · Scikit-learn · XGBoost · LightGBM · NLP (spaCy, Hugging Face)</p>
+      </div>
+
+      <div class="skill-card">
+        <h3>📊 Data Visualization</h3>
+        <p>Power BI · Tableau · Plotly · Matplotlib · Seaborn</p>
+      </div>
+
+      <div class="skill-card">
+        <h3>☁️ Big Data & Cloud</h3>
+        <p>Google Cloud · AWS · Spark (basic)</p>
+      </div>
+
+      <div class="skill-card">
+        <h3>🧰 Tools & Platforms</h3>
+        <p>Git & GitHub · Jupyter Notebook · Kaggle · Excel</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 🚀 Projects -->
+  <section class="section">
+    <h2>Projects</h2>
+    <div class="projects">
+
+      <div class="project" style="background:linear-gradient(90deg,#ff9966,#ff5e62);">
+        <h3>📊 Netflix Data Analysis</h3>
+        <p>Analyzed Netflix’s catalog for content trends, genres, and patterns using Python, Pandas, and visualization tools.</p>
+        <a href="https://www.kaggle.com/code/collinscheruyot/collins-cheruyot-cs-da02-25067">🔗 View on Kaggle</a>
+      </div>
+
+      <div class="project" style="background:linear-gradient(90deg,#4facfe,#00f2fe);">
+        <h3>🏨 Hotel Performance Dashboard</h3>
+        <p>Power BI dashboard for hotel performance metrics — including revenue, occupancy, and cancellations.</p>
+        <a href="https://drive.google.com/drive/folders/1aSenLCGqsHnwSWexLkiL-HpEYkuH42JE?usp=drive_link">🔗 View on Google Drive</a>
+      </div>
+
+      <div class="project" style="background:linear-gradient(90deg,#ff758c,#ff7eb3);">
+        <h3>🚢 Titanic EDA</h3>
+        <p>Exploratory data analysis on Titanic dataset to find survival trends by gender, class, and age.</p>
+        <a href="https://www.kaggle.com/code/collinscheruyot/collins-cheruyot-eda">🔗 View on Kaggle</a>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 🤝 Contact -->
+  <section class="section">
+    <h2>Let's Connect</h2>
+    <div class="contact">
+      📧 <a href="mailto:cheruyotcollins46@gmail.com">cheruyotcollins46@gmail.com</a><br>
+      🔗 <a href="https://github.com/cheruyotcollins46-lab">GitHub</a> |
+      <a href="https://www.linkedin.com/in/cheruyot-collins">LinkedIn</a> |
+      <a href="https://kaggle.com/collinscheruyot">Kaggle</a>
+    </div>
+  </section>
+
+  <footer>
+    © 2025 Cheruyot Collins · Built with ❤️ and Data
+  </footer>
+
+</body>
+</html>
