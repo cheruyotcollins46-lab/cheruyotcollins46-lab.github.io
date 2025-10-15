@@ -77,5 +77,4 @@ Innovative and analytical Data Scientist and Statistician with a solid foundatio
 <div align="center" style="margin-top:30px;">
   <p>© 2025 <strong>CHERUYOT COLLINS</strong>. Some rights reserved.</p>
 </div>
----
 
