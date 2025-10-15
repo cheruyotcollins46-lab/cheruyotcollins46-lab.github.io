@@ -49,7 +49,7 @@ Innovative and analytical Data Scientist and Statistician with a solid foundatio
 - Key Tools: Python, Power BI, SQL, Pandas, Scikit-learn  
 
 ### **CyberShujaa Program**  
-**Certificate in Data and AI** |   
+**Certificate in Data and AI** 
 - Specialized in Data Engineering, AI Systems, and Data Security  
 
 ### **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**  
